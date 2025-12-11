@@ -1,0 +1,12 @@
+import QtQuick 2.12
+
+Rectangle {
+    width: 200
+    height: 100
+    color: "lightgreen"
+
+    Text {
+        anchors.centerIn: parent
+        text: "QML OK"
+    }
+}
